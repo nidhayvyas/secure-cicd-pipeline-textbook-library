@@ -273,7 +273,3 @@ terraform plan
 ## Summary
 
 Built a secure CI/CD pipeline for a Spring Boot application using Jenkins, Docker, Terraform, AWS EC2, SonarQube, JaCoCo, and OWASP Dependency Check, automating build, testing, security scanning, containerization, infrastructure provisioning, deployment, and validation.
-
-## Notes
-
-This repository represents a portfolio version of the project and focuses on the final implementation, delivery workflow, and engineering outcomes.
